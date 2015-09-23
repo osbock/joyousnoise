@@ -1,4 +1,4 @@
-update=9/4/2015 11:44:54 AM
+update=9/23/2015 3:06:29 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -29,4 +29,5 @@ version=1
 version=1
 LibDir=lib
 [eeschema/libraries]
-LibName1=lib/joyousnoise
+LibName1=joyousnoise-rescue
+LibName2=lib/joyousnoise
