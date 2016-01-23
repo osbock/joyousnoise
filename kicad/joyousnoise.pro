@@ -1,4 +1,4 @@
-update=9/23/2015 3:06:29 PM
+update=10/13/2015 2:55:27 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -31,3 +31,13 @@ LibDir=lib
 [eeschema/libraries]
 LibName1=joyousnoise-rescue
 LibName2=lib/joyousnoise
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
