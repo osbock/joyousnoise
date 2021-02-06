@@ -16,11 +16,6 @@ $CMP LED
 K LED
 $ENDCMP
 #
-$CMP LM386
-D Audio Power Amp.
-K Audio Power
-$ENDCMP
-#
 $CMP POT
 D Potentionmetre
 K R
